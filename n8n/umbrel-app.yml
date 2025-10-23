@@ -1,7 +1,7 @@
 manifestVersion: 1
-id: n8n
+id: n8n-jujax
 category: automation
-name: n8n
+name: n8n-jujax
 version: "1.115.3"
 releaseNotes: >-
   This release includes new features, bug fixes and improvements.
