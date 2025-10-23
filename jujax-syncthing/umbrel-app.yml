@@ -1,7 +1,7 @@
 manifestVersion: 1
-id: syncthing-jujax
+id: jujax-syncthing
 category: files
-name: Syncthing-jujax
+name: Syncthing
 version: "2.0.10"
 tagline: Peer-to-peer file synchronization between your devices
 description: >-
