@@ -14,6 +14,7 @@ services:
     restart: on-failure
     volumes:
       - ${APP_DATA_DIR}/data:/home/node/.n8n
+      - /home/umbrel/umbrel/home/Documents:/home/node/Documents
     stop_grace_period: 1m
     environment:
       - PUID=1000
