@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: syncthing_server_1
+      APP_HOST: jujax-syncthing_server_1
       APP_PORT: 8384
 
   server:
